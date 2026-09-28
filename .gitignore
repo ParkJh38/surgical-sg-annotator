@@ -1,0 +1,31 @@
+# Local development metadata
+.openai/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+*.zip
+
+# Surgical media and medical image files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.dcm
+*.dicom
+*.nii
+*.nii.gz
+
+# Local datasets and annotation exports
+data/
+datasets/
+media/
+videos/
+annotations/
+exports/
+*_labels*.json
+*_annotation*.json
+*_annotations*.json
+
