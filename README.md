@@ -19,6 +19,26 @@
 - 기존 JCM Action JSON 병합 및 검토 항목 전환
 - 작업 중 임시 저장과 최종 JSON 내보내기
 
+## 화면 예시
+
+### Annotation 입력
+
+공통 작업 구간을 지정하고 `SG Relation`, `Node State`, `Action`을 입력합니다.
+
+![Annotation 입력 화면](docs/images/annotation-workspace.png)
+
+### 기록 검토
+
+저장된 Annotation을 종류별로 필터링하고 프레임순으로 확인·이동·수정할 수 있습니다.
+
+![기록 검토 화면](docs/images/record-review.png)
+
+### Node 관리
+
+`Person`, `Instrument`, `Other`, `Anatomy` Node를 추가하거나 수정할 수 있습니다.
+
+![Node 추가 화면](docs/images/node-management.png)
+
 ## 빠른 시작
 
 별도의 설치나 서버 실행이 필요하지 않습니다.
