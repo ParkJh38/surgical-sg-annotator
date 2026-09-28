@@ -4,6 +4,8 @@
 
 영상과 라벨 데이터는 사용자의 브라우저에서만 처리되며, 서버로 자동 전송되지 않습니다.
 
+> **연구용 소프트웨어 / Research use only:** 본 도구는 연구용 프로토타입이며 임상 진료 또는 의료기기 용도로 제작되지 않았습니다. This software is a research prototype and is not intended for clinical use.
+
 ## 주요 기능
 
 - 전체 5-view와 개별 view 전환 및 수술 영상 확대 보기
